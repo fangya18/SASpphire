@@ -10,9 +10,6 @@ The pharmaceutical industry standard method for imputing missing data is **LOCF*
 
 **LOCF** is used for missing data in repeated measures that have been taken per subject by time point. The **last observed non-missing value** is used to fill in missing values at **a later point** in the study.
 
-[caption id="attachment_1202" align="alignnone" width="750"]![image](http://upload-images.jianshu.io/upload_images/8699364-b5d9d835376eea44.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
- [PIRO4D](https://pixabay.com/users/PIRO4D/) / Pixabay[/caption]
 
 #### **Example: LOCF with Lab dataset**
 
